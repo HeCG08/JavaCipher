@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+# for idea
+target
+.project
+.classpath
+.settings
+.metadata
+.svn
+.idea
+
 # Log file
 *.log
 
