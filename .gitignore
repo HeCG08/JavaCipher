@@ -9,6 +9,7 @@ target
 .metadata
 .svn
 .idea
+*.iml
 
 # Log file
 *.log
